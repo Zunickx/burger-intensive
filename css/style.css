@@ -228,7 +228,7 @@ body {
 }
 
 .products-item-text {
-    font-size: 10px;
+    font-size: 16px;
     line-height: 140%;
     margin-bottom: 24px;
 }
@@ -245,19 +245,19 @@ body {
 }
 
 .products-item-weight {
-    font-size: 10px;
+    font-size: 16px;
     line-height: 18px;
     color: #757575;
 }
 
-.button .product-button {
+.button.product-button {
     display: flex;
     justify-content: center;
     width: 182px;
     height: 62px;
 }
 
-.button .product-button span:first-child {
+.button.product-button span:first-child {
     margin-right: 10px;
 }
 
@@ -342,6 +342,6 @@ body {
 }
 
 .rights {
-    font-size: 10px;
+    font-size: 16px;
     line-height: 20px;
 }
